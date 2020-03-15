@@ -19,3 +19,4 @@ Practice projects provided by [DataCamp](https://www.datacamp.com/). Most of the
 * Reducing Traffic Mortality in the USA
 * Which Debts Are Worth the Bank's Effort
 * Who Is Drunk and When in Ames, Iowa?
+* Disney Movies and Box Office Success
